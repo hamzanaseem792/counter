@@ -1,0 +1,3 @@
+Lets thinka bout what I have to make, I have to make a counter if someone click the increase button it will add one number to in it and idf somebody decrease it decreases from it , so I have to make the logic 
+phaly increase waly ma bhi 0 rakh lun ga o decrease walay ma bhi 
+increase waly pa eventlistener lagaun ga agar koi button click kary to us ma increment hota jia aur similarly decrease  ka liy decrement hota jaia laki m AIK CONDition ye bhi lgaun ga ka gar counter ki value 0 a if ka sath lgaun ga to decrement impossible ho value counter ki  0 e rhay 
